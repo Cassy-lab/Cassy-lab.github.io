@@ -1,11 +1,12 @@
-# ISO9001 Quality Management Consulting Service
+# Financial Audit Consulting Service
+## Service Introduction
+Professional online financial audit consulting for small & medium enterprises.
+Scope includes financial document review, internal control assessment, pre-audit preparation, financial compliance advice and correction suggestions for accounting nonconformities.
 
-## Service Overview
-Professional ISO9001 quality management system consulting service.
-Help enterprises build, optimize and audit ISO9001 QMS documents and processes.
-
-## Pricing
-$30 USD for 2 hours of consulting service.
+## Service Info
+- Service: 2 hours one-time online financial audit consulting
+- Price: $30 USD
+- Delivery: Online email / text consultation.
 
 ## Contact
 Email: wxy091824@gmail.com
